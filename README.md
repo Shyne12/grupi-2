@@ -1,8 +1,6 @@
 ## Welcome to my Site
 
-You can use the [editor on GitHub](https://github.com/Shyne12/grupi-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+HAHAHAHAAHAHAHAHAHAHAHAHAHAHAHAHHAAAHAHAHAHAHAHHAHAHAAHAHHAAHAH
 
 ### Markdown
 
@@ -15,11 +13,12 @@ Syntax highlighted code block
 ## SAGGI
 ### GILAN
 
-- Bulleted
-- List
+- GITHUB
+- ZENHUB
 
-1. Numbered
-2. List
+1. HTML
+2. BOOTSTRAP
+3.CSS
 
 **Bold** and _Italic_ and `Code` text
 
