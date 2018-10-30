@@ -18,7 +18,7 @@ Syntax highlighted code block
 
 1. HTML
 2. BOOTSTRAP
-3.CSS
+3. CSS
 
 **Bold** and _Italic_ and `Code` text
 
